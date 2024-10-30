@@ -9,8 +9,8 @@
 > If you find our survey useful for your research, please cite the following paper:
 
 ```
-@article{LLMSurvey,
-    title={A Survey of Large Language Models},
+@article{ARVFM,
+    title={Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective},
     author={Shenghao Xie, Wenqiang Zu, Mingyang Zhao, Duo Su, Shilong Liu, Ruohua Shi, Guoqi Li, Shanghang Zhang, Lei Ma},
     year={2024},
     journal={arXiv preprint arXiv:2410.22217},

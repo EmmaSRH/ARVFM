@@ -14,7 +14,7 @@
     author={Shenghao Xie, Wenqiang Zu, Mingyang Zhao, Duo Su, Shilong Liu, Ruohua Shi, Guoqi Li, Shanghang Zhang, Lei Ma},
     year={2024},
     journal={arXiv preprint arXiv:2410.22217},
-    url={[http://arxiv.org/abs/2303.18223](http://arxiv.org/abs/2410.22217)}
+    url={http://arxiv.org/abs/2410.22217}
 }
 ```
 

@@ -1,6 +1,22 @@
 # ARVFM
-Awsome autoregressive vision foundation models
+------
+> A collection of papers and resources related to **Awsome Autoregressive Vision Foundation Models**.
 
-######
+>
+> The organization of papers refers to our survey [**Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective**](http://arxiv.org/abs/2410.22217)
+>
+>
+> If you find our survey useful for your research, please cite the following paper:
 
-This is the official repo of the paper [Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](http://arxiv.org/abs/2410.22217). The paper collection is coming very quickly.
+```
+@article{LLMSurvey,
+    title={A Survey of Large Language Models},
+    author={Shenghao Xie, Wenqiang Zu, Mingyang Zhao, Duo Su, Shilong Liu, Ruohua Shi, Guoqi Li, Shanghang Zhang, Lei Ma},
+    year={2024},
+    journal={arXiv preprint arXiv:2410.22217},
+    url={[http://arxiv.org/abs/2303.18223](http://arxiv.org/abs/2410.22217)}
+}
+```
+
+-----
+Paper collection coming soon.

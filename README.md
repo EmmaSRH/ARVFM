@@ -1,6 +1,6 @@
 # ARVFM
 ------
-> A collection of papers and resources related to **Awsome Autoregressive Vision Foundation Models**.
+> A collection of papers and resources related to **Awesome Autoregressive Vision Foundation Models**.
 
 >
 > The organization of papers refers to our survey [**Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective**](http://arxiv.org/abs/2410.22217)
